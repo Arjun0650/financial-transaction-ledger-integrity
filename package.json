@@ -1,0 +1,11 @@
+{
+  "name": "ledgerguard",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24.0.0 <25.0.0"
+  }
+}
